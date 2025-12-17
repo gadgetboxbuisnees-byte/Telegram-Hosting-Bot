@@ -267,7 +267,7 @@ async def cmd_start(message: types.Message):
     
     welcome_text = f"""
 ╔═══════════════════════╗
-    🌟 <b>WELCOME TO FILE HOST BOT</b> 🌟
+🌟 <b>WELCOME TO GADGET HOST BOT</b> 🌟
 ╚═══════════════════════╝
 
 👋 <b>Hi,</b> {message.from_user.full_name}!
